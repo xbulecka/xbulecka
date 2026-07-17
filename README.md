@@ -20,7 +20,7 @@
 
 ### 🚀 About Me
 
-- 🛠️ Building **Lua** scripts and modules for **FiveM** servers (ESX / QBCore / QBox)
+- 🛠️ Building **Lua** scripts and modules for **FiveM** servers (Mainly ESX)
 - 🎨 Designing NUI interfaces with **HTML / CSS / JS / React**
 - 📚 Always learning new things and optimizing code for performance
 - 💬 Open to collaborating on FiveM projects
