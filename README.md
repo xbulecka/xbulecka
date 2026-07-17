@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hey, I'm bulecka 🎮</h1>
-<h3 align="center">FiveM Developer | Building scripts for FiveM servers</h3>
+<h3 align="center">Lua FiveM Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
